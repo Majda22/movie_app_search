@@ -30,7 +30,7 @@ npm install @appbaseio/reactivesearch
 
 To explore the MovieSearch dataset, navigate to the DejaVu interface using the following link:
 
-[Open DejaVu Interface](https://dejavu.appbase.io/?appname=movies-demo-app&url=https://81719ecd9552:e06db001-a6d8-4cc2-bc43-9c15b1c0c987@appbase-demo-ansible-abxiydt-arc.searchbase.io&mode=view)
+[Open DejaVu The missing web UI for Elasticsearch](https://dejavu.appbase.io/?appname=movies-demo-app&url=https://81719ecd9552:e06db001-a6d8-4cc2-bc43-9c15b1c0c987@appbase-demo-ansible-abxiydt-arc.searchbase.io&mode=view)
 
 ## Project Structure
 
