@@ -66,11 +66,12 @@ Throughout the development process, we'll adhere to the following flow:
 3. Explore the MovieSearch dataset using the DejaVu interface.
 4. Develop the application incrementally, generating code snippets in Codesandbox.io at each step for easy testing.
 5. 
-## Demostration
+## Demonstration
 
 You can test the demo by clicking on the image below:
 
-[!(https://github.com/Majda22/movie_app_search/assets/167624199/d6b86c16-caa9-4c7d-a61f-a6ae49a877fd)(https://5ddg9h-3000.csb.app/)
+[![Demonstration](https://github.com/Majda22/movie_app_search/assets/167624199/d6b86c16-caa9-4c7d-a61f-a6ae49a877fd)](https://5ddg9h-3000.csb.app/)
+
 
 ## Utilizing DejaVu for Elasticsearch
 
