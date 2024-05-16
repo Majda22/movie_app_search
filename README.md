@@ -70,7 +70,7 @@ Throughout the development process, we'll adhere to the following flow:
 
 You can test the demo by clicking on the image below:
 
-[!![Capture d'écran 2024-05-16 141251](https://github.com/Majda22/movie_app_search/assets/167624199/d6b86c16-caa9-4c7d-a61f-a6ae49a877fd)(https://5ddg9h-3000.csb.app/)
+[!(https://github.com/Majda22/movie_app_search/assets/167624199/d6b86c16-caa9-4c7d-a61f-a6ae49a877fd)(https://5ddg9h-3000.csb.app/)
 
 ## Utilizing DejaVu for Elasticsearch
 
