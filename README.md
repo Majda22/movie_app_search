@@ -1,4 +1,4 @@
-# MovieSearch App README
+![Capture d'écran 2024-05-16 141251](https://github.com/Majda22/movie_app_search/assets/167624199/d6b86c16-caa9-4c7d-a61f-a6ae49a877fd)# MovieSearch App README
 
 Welcome to the MovieSearch app development journey! In this guide, we will walk you through step-by-step instructions to build an application utilizing the MovieSearch dataset indexed in an appbase app. To visualize and interact with the dataset, we'll leverage DejaVu, an intuitive UI for Elasticsearch.
 
@@ -65,6 +65,12 @@ Throughout the development process, we'll adhere to the following flow:
 2. Install required dependencies.
 3. Explore the MovieSearch dataset using the DejaVu interface.
 4. Develop the application incrementally, generating code snippets in Codesandbox.io at each step for easy testing.
+5. 
+## Demostration
+
+You can test the demo by clicking on the image below:
+
+[![Demo][Uploading Capture d'écran 2024-05-16 141251.png…]()](https://5ddg9h-3000.csb.app/)
 
 ## Utilizing DejaVu for Elasticsearch
 
