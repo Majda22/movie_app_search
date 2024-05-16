@@ -7,7 +7,7 @@ Welcome to the MovieSearch app development journey! In this guide, we will walk 
 Before diving into the development process, ensure you have access to the following:
 
 - **Appbase Account**: Create an account on [Appbase.io](https://appbase.io/) to set up your appbase app and index the MovieSearch dataset.
-- **DejaVu Interface**: Access the DejaVu interface to browse the indexed data and configure settings as needed.
+- **DejaVu The missing web UI for Elasticsearch**: Access the DejaVu interface to browse the indexed data and configure settings as needed.
 - **Codesandbox.io**: We'll use Codesandbox.io to generate code at each intermediate step, facilitating testing and development.
 
 ## Getting Started
